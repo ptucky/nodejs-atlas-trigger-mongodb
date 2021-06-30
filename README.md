@@ -8,5 +8,3 @@ https://www.mongodb.com/cloud/atlas
 - Create an ACID Transaction
 - Agrregation & Data Analysis
 - Change Streams & Trigger
-
-https://www.youtube.com/watch?v=9LA7_CSyZb8
